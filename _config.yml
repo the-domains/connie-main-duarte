@@ -1,0 +1,28 @@
+name: Connie Main Duarte
+favicon: null
+layout_spectrum: 0.429489680333063
+typography_spectrum: 0.8877243248280138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.539750664960593
+  lightness: 0.9213232304900885
+  saturation: 0.37545281485654414
+  rhythmicContrast: 0.48183413268998265
+purpose: []
