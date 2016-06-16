@@ -1,7 +1,7 @@
 name: Connie Main Duarte
 favicon: null
 layout_spectrum: 0.429489680333063
-typography_spectrum: 0.8877243248280138
+typography_spectrum: 0.66008
 title: Connie Main Duarte
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.539750664960593
-  lightness: 0.9213232304900885
-  saturation: 0.37545281485654414
-  rhythmicContrast: 0.48183413268998265
+  brandStrength: 0.4375
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
