@@ -1,5 +1,25 @@
-layout_spectrum: 0.27699228352867067
-typography_spectrum: 0.11221421440131962
+name: Connie Main Duarte
+favicon: null
+layout_spectrum: 0.50045
+typography_spectrum: 0.37057
+navigation:
+  - name: About
+    id: be3b8347-46c0-4ef9-ae74-0c275810b972
+    type: content
+title: ''
+description: ''
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-79446615-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#225378'
@@ -11,24 +31,4 @@ color:
   lightness: 0.801439831033349
   saturation: 0.9926840562839061
   rhythmicContrast: 0.16482308972626925
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: UA-79446615-1
-  facebook: null
-  twitter: null
-name: Connie Main Duarte
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: About
-    id: be3b8347-46c0-4ef9-ae74-0c275810b972
-    type: content
-favicon: null
-title: ''
-description: ''
 purpose: []
