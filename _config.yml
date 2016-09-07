@@ -1,4 +1,3 @@
-layout_spectrum: 0.46983255352824926
 typography_spectrum: 0.9108951999805868
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.46983255352824926
 analytics:
   google: UA-79446615-1
   facebook: null
@@ -29,6 +29,6 @@ navigation:
     id: be3b8347-46c0-4ef9-ae74-0c275810b972
     type: content
 favicon: null
-title: Connie
+title: ''
 description: tagline2
 purpose: []
